@@ -1,0 +1,15 @@
+@font-face{
+  font-family: 'Plumb';
+  font-weight: 400;
+  src: url('../fonts/plumbcondensed-regular.ttf') format('truetype');
+}
+@font-face{
+  font-family: 'Plumb';
+  font-weight: 700;
+  src: url('../fonts/plumbcondensed-bold.ttf') format('truetype');
+}
+@font-face{
+  font-family: 'Circe';
+  font-weight: 400;
+  src: url('../fonts/Circe-Regular.ttf') format('truetype');
+}
